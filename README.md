@@ -6,4 +6,4 @@
 
 Projeto desenvolvido pela rocketseat
 
-* Link do projeto https://github.com/luaneufrasio/Fotoblog.git
+* Link do projeto https://www.figma.com/community/file/1256354844988182987
